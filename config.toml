@@ -1,28 +1,3 @@
 baseURL = 'https://jovial-saha-2d3803.netlify.app/'
 languageCode = 'en-us'
-title = 'Personal Docs'
-
-theme = "etch" 
-
-[params]
-    description = "Your site description"
-    dark = "auto"
-    highlight = true
-
-[menu]
-    [[menu.main]]
-        identifier = "posts"
-        name = "posts"
-        title = "posts"
-        url = "/"
-        weight = 10
-
-    [[menu.main]]
-        identifier = "about"
-        name = "about"
-        title = "about"
-        url = "/about/"
-        weight = 20
-
-[permalinks]
-  posts = "/:title/"
+title = 'Khalil Ahmed Docs'
