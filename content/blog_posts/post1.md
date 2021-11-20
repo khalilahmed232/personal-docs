@@ -6,7 +6,6 @@ draft: false
 
 How does code run
 
-
 int a = 10, b = 7
 int c = a + b
 print c  // 17
