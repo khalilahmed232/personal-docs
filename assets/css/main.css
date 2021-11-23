@@ -1,0 +1,9 @@
+.post-list-item {
+  width: 100%;
+}
+.post-list-item a {
+  display: block;
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+}
