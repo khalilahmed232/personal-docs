@@ -1,5 +1,5 @@
 {{ define "content" }}
 
-{{ range where .Site.RegularPages "Type" "blog_posts"}}
+{{ range  .Site.RegularPages }}
 <a href="{{ .Permalink }}" class="navbar-item"> {{ .Title }} </a>
 {{end }} {{ end }}
