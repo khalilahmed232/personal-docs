@@ -1,0 +1,127 @@
+{
+  "schedule": {
+    "weekday": [
+      {
+        "start": "0:00",
+        "end": "8:00",
+        "thingsToDo": "Sleep"
+      },
+      {
+        "start": "8:00",
+        "end": "8:15",
+        "thingsToDo": "Brush"
+      },
+      {
+        "start": "8:15",
+        "end": "8:45",
+        "thingsToDo": "Bath"
+      },
+      {
+        "start": "8:45",
+        "end": "9:15",
+        "thingsToDo": "Free Time"
+      },
+      {
+        "start": "9:15",
+        "end": "9:30",
+        "thingsToDo": "Tiffin"
+      },
+      {
+        "start": "9:30",
+        "end": "10:00",
+        "thingsToDo": "Free Time"
+      },
+      {
+        "start": "10:00",
+        "end": "14:00",
+        "thingsToDo": "Office"
+      },
+      {
+        "start": "14:00",
+        "end": "15:00",
+        "thingsToDo": "Lunch"
+      },
+      {
+        "start": "15:00",
+        "end": "19:00",
+        "thingsToDo": "Office"
+      },
+      {
+        "start": "19:00",
+        "end": "20:00",
+        "thingsToDo": "Free Time"
+      },
+      {
+        "start": "20:00",
+        "end": "21:00",
+        "thingsToDo": "Dinner"
+      },
+      {
+        "start": "21:00",
+        "end": "22:00",
+        "thingsToDo": "Free Time"
+      },
+      {
+        "start": "22:00",
+        "end": "0:00",
+        "thingsToDo": "Sleep"
+      }
+    ],
+    "weekend": [
+      {
+        "start": "0:00",
+        "end": "8:00",
+        "thingsToDo": "Sleep"
+      },
+      {
+        "start": "8:00",
+        "end": "8:15",
+        "thingsToDo": "Brush"
+      },
+      {
+        "start": "8:15",
+        "end": "8:45",
+        "thingsToDo": "Bath"
+      },
+      {
+        "start": "8:45",
+        "end": "20:00",
+        "thingsToDo": "Free Time"
+      },
+      {
+        "start": "20:00",
+        "end": "21:00",
+        "thingsToDo": "Dinner"
+      },
+      {
+        "start": "21:00",
+        "end": "22:00",
+        "thingsToDo": "Free Time"
+      },
+      {
+        "start": "22:00",
+        "end": "0:00",
+        "thingsToDo": "Sleep"
+      },
+      {
+        "start": "22:00",
+        "end": "0:00",
+        "thingsToDo": "Sleep"
+      }
+    ]
+  },
+  "currentPendingItems": [
+    {
+      "id": 0,
+      "name": "Complete Lease Termination Walkthrough",
+      "loggedDate": "2022-01-29 19:50",
+      "type": "primary"
+    },
+    {
+      "id": 1,
+      "name": "Go for vegetables",
+      "loggedDate": "2022-01-29 19:50",
+      "type": "secondary"
+    }
+  ]
+}

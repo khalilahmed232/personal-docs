@@ -1,0 +1,60 @@
+@font-face {
+  font-family: roboto-regular;
+  src: url("fonts/Roboto/Roboto-Regular.ttf");
+}
+h2 {
+  font-family: roboto-regular;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 2em;
+  font-family: roboto-regular, sans-serif;
+}
+.simple-table {
+  border-collapse: collapse;
+}
+.simple-table tr,
+td {
+  padding: 0.2em 0.6em;
+}
+
+.simple-table td:nth-child(2),
+.simple-table td:nth-child(1) {
+  text-align: right;
+}
+
+.highlight-schedule-row {
+  background-color: turquoise;
+}
+
+.schedule-button {
+  padding: 10px 25px;
+  font-size: 20px;
+  margin: 0;
+  border: 0;
+  background-color: turquoise;
+}
+
+.schedule-button.inactive {
+  background-color: white;
+  cursor: pointer;
+}
+
+#main-content {
+  display: flex;
+}
+#main-content section {
+  flex-direction: column;
+}
+
+#schedule-section {
+  flex-grow: 1;
+}
+
+#taskpending-section {
+  flex-grow: 2;
+}
